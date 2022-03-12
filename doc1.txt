@@ -1,1 +1,2 @@
 This is doc1 for master branch
+This is commit from branch two
