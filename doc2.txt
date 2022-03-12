@@ -1,4 +1,1 @@
-This is doc2 for branch one
-This changes is done from branch two
-In the next line should go commit from branch one
-Yes, this is branch ONE
+This is doc2 for branch two
