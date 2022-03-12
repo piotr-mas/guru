@@ -1,4 +1,1 @@
-This is doc3 for branch two
-This changes is done from branch two
-In the next line should go commit from branch one
-OK, branch ONE in this line.
+This is doc3 for branch three
