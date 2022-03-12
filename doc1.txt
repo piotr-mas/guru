@@ -1,3 +1,6 @@
 This is doc1 for master branch
 This is commit from branch two
 This is commit from branch one
+This changes is done from branch two
+In the next line should go commit from branch one
+
